@@ -1,0 +1,54 @@
+
+// SignUp
+
+
+// Exhibitions and events
+
+	 * book event : * who * what * when -> those like a filter to events
+	 * browse all events
+	 * free exhibitions -> upcoming , Recently Opened , Current Exhibitions , past events
+	 * Highlight events
+	--who : 1- family 2- adult 3- baby 4- general audience
+	--what : 1- online events 2- exhibitions 3- lectures and disccussions 4- festival 5- film 
+	--every exhibition page contain :
+		0-description
+		1-highlights
+		2-ticket information
+		3-Members
+		4-Explore
+		5-you may interseted
+
+// Shop 
+	*souvenirs 
+	*arts
+
+// Visit
+	*Family Visits
+	*Group Visits
+	*Tour and Talks
+	*Museum Map 	*
+
+	
+// Collection
+	* contain all objects and photos fo museum 
+	* sections like -> Collection highlights(popular,..)  , Collection themes(culture,..)  
+
+// Galleries 
+	* floors
+	* every floor contain rooms 
+	* every room contain culture 
+
+// Search 
+	* search for galleries and events
+
+
+// MemberShip
+	*young friends
+	*VIP
+
+// About Us
+	*contact us
+	*story of us
+
+
+	

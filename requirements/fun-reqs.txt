@@ -1,0 +1,133 @@
+
+
+
+
+////////// Random collection from websites ........
+
+
+1-SignUp -> make a new account for museum
+2-Login -> have an existing account
+3-Search 
+4-Buy gifts and souviners from shop
+5-Browse digital collection
+6-Book timed-entry ticket
+7-Purchase membership
+8-Submit feedback
+9-Register for event
+10-Purchase shop item 
+11-Add new artifact
+12-Update conservation status
+13-Schedule exhibition rotation
+14-Validate ticket 
+15-Process donation
+16-Manage VIP guest list
+17-Upgrade to membership
+18-Show all events
+19-Assign artifacts to exhibit
+20-Generate gift receipt
+21-Bundle related products
+22-Apply member discount
+23-Restock low-inventory item
+24-Pay by differents methods (card , cash , ..)
+25-Notify backorder status
+26-Log artifact handling ( history of shop for member)
+
+
+
+
+//////////  Try to organize after using some chat 
+
+
+***. Visitor Use Cases
+
+-Browsing & Exploration
+
+    View homepage (exhibit highlights, events)
+
+    Browse digital collection (search/filter artifacts)
+
+    Explore virtual galleries (photos, video...)
+
+    Read artifact details
+
+    Watch curator videos (educational content)
+
+
+- Planning Visits
+
+    Check opening hours
+
+    Book timed-entry ticket
+
+    Purchase membership
+
+    Download visitor maps
+
+    View accessibility services (wheelchair routes, BSL tours)
+
+    Check exhibition dates (current/upcoming)
+
+-Events & Programs
+
+    Register for events (lectures, workshops)
+
+    Book school/group visits
+
+
+***. Members:
+
+    Log in to member page
+
+    Renew membership
+
+    Access member-exclusive events
+
+    Get discount codes (shop)
+
+    View booking history
+
+
+***. E-Commerce:
+
+    Shop online (gifts,books, replicas)
+
+    Add items to cart
+
+    Apply discount codes
+
+    Checkout with gift options
+
+    Donate to the museum
+
+***. Admin:
+
+    Manage collection records (CRUD operations)
+
+    Update exhibition layouts
+
+    Monitor conservation status
+
+
+***. Researcher: -> i don't know if itis existing but maybe.. 
+
+    request artifact access (scholars) -> in the learn section also , i think  
+
+    Download high-res images (for publications) -> one of implementation req , files.
+	
+    
+	
+
+*****************************************************
+
+
+Actors : ->     
+
+    Visitor -> don't have account yet.
+
+    Registered Member -> membership only.
+
+    Researcher
+
+    Museum Staff (Admin,..) -> maybe more than admin , we will discuss this.
+
+    External Systems (Payment Gateways)
